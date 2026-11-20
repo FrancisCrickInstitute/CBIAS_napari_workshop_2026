@@ -97,16 +97,17 @@ Follow Option D in the [napari-zelda plugin repository](https://github.com/Rocco
 Slides: [Napari Zelda (3D segmentation and Parent-Child Relation in napari) - plugin presentation - Rocco D'Antuono](https://zenodo.org/records/8238682)
 
 * Mitochondria segmentation in EM data with napari-empanada (Marie Held)
-  Either execute the following (note the python version must not be >3.9!)
+  Check for the most recent installation instructions on the [napai hub page for the empanada plugin](https://napari-hub.org/plugins/empanada-napari.html)
+  Either execute the following conda instructions (note the python version must be >=3.12 and napari >= 0.9)
   ```
-  conda create -n empanada-ws-env python=3.9
+  conda create -n empanada-ws-env python=3.12
   conda activate empanada-ws-env
-  conda install -c conda-forge napari pyqt
+  conda install -c conda-forge napari pyqt6
   pip install empanada-napari
   ```
-  Alternatively, download the [cbias2024-napari-empanada-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2024/blob/main/envs/cbias2024-napari-empanada-env.yml) file, use the Anaconda prompt to navigate to the local folder and execute
+  Alternatively, download the [cbias2026-napari-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2026/blob/main/envs/cbias2026-napari-env.yml) file, use the Anaconda prompt to navigate to the local folder and execute
   ```
-  conda env create -f cbias2024-napari-empanada-env.yml
+  conda env create -f cbias2026-napari-empanada-env.yml
   ```
 
 * Interactive pixel classification using pretrained neural networks with [napari-convpaint](https://github.com/guiwitz/napari-convpaint) (Ana Stojiljkovic)<br>

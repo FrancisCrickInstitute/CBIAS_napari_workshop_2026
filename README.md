@@ -114,7 +114,7 @@ Slides: [Napari Zelda (3D segmentation and Parent-Child Relation in napari) - pl
   ```
 
 * Interactive pixel classification using pretrained neural networks with [napari-convpaint](https://github.com/guiwitz/napari-convpaint) (Ana Stojiljkovic)<br>
-Once you have installed napari in your environment using Option 1 or 2 above, you can install the napari convpaint plugin from PYPI:
+Once you have installed napari in your environment using Option 1 and 2 above, you can install the napari convpaint plugin from PYPI:
   ```
   pip install napari-convpaint
   ```

@@ -40,7 +40,7 @@ conda update -n base -c conda-forge conda
 b) create a new environment with a meaningful name: substitute with your choice the string "mymeaningfulname". E.g. "cbias-workshop-env". Please do not simplify with "napari-env", as half of the tutorial use that and you might risk to overwrite a previous environment which contain packages used in previous analyses.
 
 ```
-conda create -n mymeaningfulname-env python=3.12
+conda create -n mymeaningfulname-env python=3.14
 ```
 
 c) activate the new environment
@@ -64,7 +64,7 @@ napari
 ### Create a conda environment with a recipe
 If a working environment cannot be created through the commands above, the following recipe can be used to create an environment with napari
 
-a) Download the file [cbias2026-napari-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2025/tree/main/envs/cbias2025-napari-env.yml) into a local folder
+a) Download the file [cbias2026-napari-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2026/tree/main/envs/cbias2026-napari-env.yml) into a local folder
 
 b) use the Anaconda prompt to navigate to the local folder and execute
 ```
@@ -80,7 +80,11 @@ napari
 
 # Day 1 - instructions and links
 #### 10:00 – 10:10 - Welcome and introduction to the course
+Access to the [https://imagesc.zulipchat.com/](https://imagesc.zulipchat.com/) channel for communications during the workshop. Log in with GitHub account, or register. Message any trainer to be added to [https://imagesc.zulipchat.com/#narrow/channel/655671-CBIAS-napari-workshop-2026](https://imagesc.zulipchat.com/#narrow/channel/655671-CBIAS-napari-workshop-2026)
+
 #### 10:10 – 10:30 - Participants self-introduction
+Fill in 1-slide introduction (link sent via email to participants).
+
 #### 10:30 – 12:30 - Installation and napari GUI - Rocco D’Antuono and Sara Salgueiro Torres
 
 Install napari with options 1 and 2 above or the provided recipe (.yml file).

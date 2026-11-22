@@ -148,7 +148,6 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
   * Delving into Napari layer types (Rocco D'Antuono)
   * Napari widgets and plugin creation with magicgui and plugin template (Cameron Shand)
   Instruction on the plugin creation demo: [https://github.com/FrancisCrickInstitute/cbias2025_napari_demo](https://github.com/FrancisCrickInstitute/cbias2025_napari_demo)
-  * Introduction to image registration methods for 2D and 3D image data (Joost de Folter)
 
 #### 17:30 – 18:00 - Brainstorming on trainees projects
 

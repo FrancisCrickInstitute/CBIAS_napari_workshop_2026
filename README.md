@@ -109,11 +109,6 @@ Slides: [Napari Zelda (3D segmentation and Parent-Child Relation in napari) - pl
   pip install empanada-napari
   ```
 
-  Alternatively, download the [cbias2026-napari-env.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2026/blob/main/envs/cbias2026-napari-env.yml) file, use the Anaconda prompt to navigate to the local folder and execute
-  ```
-  conda env create -f cbias2026-napari-empanada-env.yml
-  ```
-
 * Interactive pixel classification using pretrained neural networks with [napari-convpaint](https://github.com/guiwitz/napari-convpaint) (Ana Stojiljkovic)<br>
 Once you have installed napari in your environment using Option 1 or 2 above, you can install the napari convpaint plugin from PYPI:
   ```

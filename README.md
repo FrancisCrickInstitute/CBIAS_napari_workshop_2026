@@ -61,6 +61,10 @@ At this point, if no error appears in the terminal as result of the operations a
 ```
 napari
 ```
+
+> [!NOTE]
+> If you encounter issues, it may help to install Napari via a different method instead. Within your conda environment you can install via pip with `pip install "napari[all]"` and see if that helps.
+
 ### Create a conda environment with a recipe
 If a working environment cannot be created through the commands above, the following recipe can be used to create an environment with napari
 
@@ -147,7 +151,7 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
 
   * Delving into Napari layer types (Rocco D'Antuono)
   * Napari widgets and plugin creation with magicgui and plugin template (Cameron Shand)
-  Instruction on the plugin creation demo: [https://github.com/FrancisCrickInstitute/cbias2025_napari_demo](https://github.com/FrancisCrickInstitute/cbias2025_napari_demo)
+  Instruction on the plugin creation demo: [https://github.com/FrancisCrickInstitute/cbias2026_napari_demo](https://github.com/FrancisCrickInstitute/cbias2026_napari_demo)
 
 #### 17:30 – 18:00 - Brainstorming on trainees projects
 

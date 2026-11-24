@@ -102,7 +102,7 @@ Follow Option D in the [napari-zelda plugin repository](https://github.com/Rocco
   conda env create -f cbias2026-napari-zelda.yml
   ```
 
-Slides: [Napari Zelda (3D segmentation and Parent-Child Relation in napari) - plugin presentation - Rocco D'Antuono](https://zenodo.org/records/8238682)
+Download slides: [Napari Zelda (3D segmentation and Parent-Child Relation in napari) - plugin presentation - Rocco D'Antuono](https://zenodo.org/records/8238682)
 
 * Mitochondria segmentation in EM data with napari-empanada (Marie Held)
 
@@ -150,6 +150,10 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
   You will then be able to navigate to the [*intro_to_jupyter.ipynb* notebook](/notebooks/intro_to_jupyter.ipynb).
 
   * Delving into Napari layer types (Rocco D'Antuono)
+  After a short navigation of napari layers type, trainees will make two exercise to fix existing code and get 3D segmentation, starting from this notebook: [*Delving_into_napari_layers-CBIAS_2026_napari_workshop_UnsolvedExercises*](/notebooks/Delving_into_napari_layers-CBIAS_2026_napari_workshop_UnsolvedExercises.ipynb).
+  
+    Solutions will be provided during the practical session.
+
   * Napari widgets and plugin creation with magicgui and plugin template (Cameron Shand)
   Instruction on the plugin creation demo: [https://github.com/FrancisCrickInstitute/cbias2026_napari_demo](https://github.com/FrancisCrickInstitute/cbias2026_napari_demo)
 

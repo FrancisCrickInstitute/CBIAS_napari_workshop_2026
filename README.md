@@ -135,27 +135,29 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
 #### 15:30 – 17:30 - First steps to customise napari GUI (hands-on session):
   * Introduction to Jupyter notebooks for bioimage analisis with python (Sara Salgueiro Torres) <br>
 
-  You can find the slides for this session [here](https://docs.google.com/presentation/d/1kiXEtY1vHEyz1ZEFIZAisauelGEYfspe/edit?usp=sharing&ouid=114387269887423928889&rtpof=true&sd=true). <br>
+    You can find the slides for this session [here](https://docs.google.com/presentation/d/1kiXEtY1vHEyz1ZEFIZAisauelGEYfspe/edit?usp=sharing&ouid=114387269887423928889&rtpof=true&sd=true). <br>
 
-  We will be using the environment created in the morning *Installation* session. To activate the environment:
+    We will be using the environment created in the morning *Installation* session. To activate the environment:
 
   ```
-  conda activate cbias-workshop-2026
+    conda activate cbias-workshop-2026
   ```
-  Then open *jupyter*:
+      Then open *jupyter*:
   
   ```
-  jupyter-lab
+    jupyter-lab
   ```  
   You will then be able to navigate to the [*intro_to_jupyter.ipynb* notebook](/notebooks/intro_to_jupyter.ipynb).
 
   * Delving into Napari layer types (Rocco D'Antuono)
-  After a short navigation of napari layers type, trainees will make two exercise to fix existing code and get 3D segmentation, starting from this notebook: [*Delving_into_napari_layers-CBIAS_2026_napari_workshop_UnsolvedExercises*](/notebooks/Delving_into_napari_layers-CBIAS_2026_napari_workshop_UnsolvedExercises.ipynb).
+  
+     After a short navigation of napari layers type, trainees will make two exercise to fix existing code and get 3D segmentation, starting from this notebook: [*Delving_into_napari_layers-CBIAS_2026_napari_workshop_UnsolvedExercises*](/notebooks/Delving_into_napari_layers-CBIAS_2026_napari_workshop_UnsolvedExercises.ipynb).
   
     Solutions will be provided during the practical session.
 
   * Napari widgets and plugin creation with magicgui and plugin template (Cameron Shand)
-  Instruction on the plugin creation demo: [https://github.com/FrancisCrickInstitute/cbias2026_napari_demo](https://github.com/FrancisCrickInstitute/cbias2026_napari_demo)
+  
+    Instruction on the plugin creation demo: [https://github.com/FrancisCrickInstitute/cbias2026_napari_demo](https://github.com/FrancisCrickInstitute/cbias2026_napari_demo)
 
 #### 17:30 – 18:00 - Brainstorming on trainees projects
 

@@ -89,7 +89,9 @@ Access to the [https://imagesc.zulipchat.com/](https://imagesc.zulipchat.com/) c
 #### 10:10 – 10:30 - Participants self-introduction
 Fill in 1-slide introduction (link sent via email to participants).
 
-#### 10:30 – 12:30 - Installation and napari GUI - Rocco D’Antuono and Sara Salgueiro Torres
+#### 10:30 – 10:45 - Group picture 
+
+#### 10:45 – 12:30 - Installation and napari GUI - Rocco D’Antuono and Sara Salgueiro Torres
 
 Install napari with options 1 and 2 above or the provided recipe (.yml file).
 

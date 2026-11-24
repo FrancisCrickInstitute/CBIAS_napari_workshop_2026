@@ -137,18 +137,30 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
 #### 15:30 – 17:30 - First steps to customise napari GUI (hands-on session):
   * Introduction to Jupyter notebooks for bioimage analisis with python (Sara Salgueiro Torres) <br>
 
-    You can find the slides for this session [here](https://docs.google.com/presentation/d/1kiXEtY1vHEyz1ZEFIZAisauelGEYfspe/edit?usp=sharing&ouid=114387269887423928889&rtpof=true&sd=true). <br>
+    You can find the slides for this session [here](https://docs.google.com/presentation/d/1q2WkSMz4J8T3Ig8wGpkUQPPYK5Hjntff/edit?usp=sharing&ouid=104293516148429490700&rtpof=true&sd=true). <br>
 
     We will be using the environment created in the morning *Installation* session. To activate the environment:
 
   ```
-    conda activate cbias-workshop-2026
+    conda activate cbias2026-napari
   ```
-      Then open *jupyter*:
+
+> NOTE: replace `cbias2026-napari` with the name of the environment you created in the morning session.
+<br>
+
+You can list all your available environments with:
+
+```
+conda env list
+```
+
+
+Then open *jupyter*:
   
   ```
     jupyter-lab
-  ```  
+  ```
+
   You will then be able to navigate to the [*intro_to_jupyter.ipynb* notebook](/notebooks/intro_to_jupyter.ipynb).
 
   * Delving into Napari layer types (Rocco D'Antuono)

@@ -120,18 +120,18 @@ Download slides: [Napari Zelda (3D segmentation and Parent-Child Relation in nap
   ```
 
 * Interactive pixel classification using pretrained neural networks with [napari-convpaint](https://github.com/guiwitz/napari-convpaint) (Ana Stojiljkovic)<br>
-Once you have installed napari in your environment using Option 1 and 2 above, you can install the napari convpaint plugin from PYPI:
+Once you have installed napari in your Conda environment as described above, you can install the napari-convpaint plugin by running the following command:
   ```
-  pip install napari-convpaint
+  conda install napari-convpaint
   ```
 
 * Easy movie creation with [napari-animation](https://github.com/napari/napari-animation) (Ana Stojiljkovic)<br>
 To easely create movies to document your image analysis results (.mp4, .gif, .mov, .mkv), add the napari-animation plugin to your napari environement. We recommend installing it from conda-forge, especially if you are using macOS. For detailed installation instructions, visit the [napari-animation repository](https://github.com/napari/napari-animation?tab=readme-ov-file#installation).
   ```
-  conda install -c conda-forge napari-animation
+  conda install napari-animation
   ```
-  If you prefer please use the [cbias25-napari-convpaint.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2025/blob/main/envs/cbias25-napari-convpaint.yml) file to   install a napari environment containing both plugins, napari-convpaint & napari-animation.<br>
-  [Slides](https://docs.google.com/presentation/d/1klbcgt98qLBLfnAeWP9qvpMF1yXmSp5gIaLIE6yHtpo/edit?usp=sharing) for the napari-convpaint & napari-animation showcase.
+  If you prefer please use the [cbias2026-napari-convpaint.yml](https://github.com/FrancisCrickInstitute/CBIAS_napari_workshop_2026/tree/main/envs/cbias2026-napari-convpaint.yml) file to   install a napari environment containing both plugins, napari-convpaint & napari-animation.<br>
+  [Slides](https://docs.google.com/presentation/d/1B7KTlIgk0IsaSy8QGDNADIS-QpcBI6NZsjy3p1RKNAM/edit?usp=sharing) for the napari-convpaint & napari-animation showcase. For more details on advanced convpaint features, refer to the dedicated [I2K online workshop](https://www.youtube.com/watch?v=zoxaWo9J4nE).
 
 #### 15:00 – 15:30 - Coffee break
 #### 15:30 – 17:30 - First steps to customise napari GUI (hands-on session):

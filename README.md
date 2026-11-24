@@ -161,7 +161,7 @@ Then open *jupyter*:
     jupyter-lab
   ```
 
-  You will then be able to navigate to the [*intro_to_jupyter.ipynb* notebook](/notebooks/intro_to_jupyter.ipynb).
+  You will then be able to navigate to the [*intro_to_jupyter.ipynb* notebook](/notebooks/intro_to_jupyter_2026.ipynb).
 
   * Delving into Napari layer types (Rocco D'Antuono)
   

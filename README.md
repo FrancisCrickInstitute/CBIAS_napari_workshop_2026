@@ -135,7 +135,7 @@ To easely create movies to document your image analysis results (.mp4, .gif, .mo
 
 #### 15:00 – 15:30 - Coffee break
 #### 15:30 – 17:30 - First steps to customise napari GUI (hands-on session):
-  * Introduction to Jupyter notebooks for bioimage analisis with python (Sara Salgueiro Torres) <br>
+  * Introduction to Jupyter notebooks for bioimage analysis with python (Sara Salgueiro Torres) <br>
 
     You can find the slides for this session [here](https://docs.google.com/presentation/d/1q2WkSMz4J8T3Ig8wGpkUQPPYK5Hjntff/edit?usp=sharing&ouid=104293516148429490700&rtpof=true&sd=true). <br>
 
